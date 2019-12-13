@@ -1,0 +1,7 @@
+#!/bin/bash
+mkdir -p ~/$1
+pushd ~/$1
+cargo new $2
+popd
+pushd ~/$1/$2
+
