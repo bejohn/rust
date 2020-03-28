@@ -2,4 +2,4 @@
 
 repo for rust learnings, trails and errors
 
-new1
+new2
